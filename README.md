@@ -1,2 +1,2 @@
-# lecture_notes
+# Конспекты Python
 Конспекты Python
